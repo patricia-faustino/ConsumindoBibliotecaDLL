@@ -1,0 +1,9 @@
+C:\src\ByteBank.SistemaInterno\ByteBank.SistemaInterno\bin\Debug\ByteBank.SistemaInterno.exe.config
+C:\src\ByteBank.SistemaInterno\ByteBank.SistemaInterno\bin\Debug\ByteBank.SistemaInterno.exe
+C:\src\ByteBank.SistemaInterno\ByteBank.SistemaInterno\bin\Debug\ByteBank.SistemaInterno.pdb
+C:\src\ByteBank.SistemaInterno\ByteBank.SistemaInterno\bin\Debug\ByteBank.Modelos.dll
+C:\src\ByteBank.SistemaInterno\ByteBank.SistemaInterno\obj\Debug\ByteBank.SistemaInterno.csprojAssemblyReference.cache
+C:\src\ByteBank.SistemaInterno\ByteBank.SistemaInterno\obj\Debug\ByteBank.SistemaInterno.csproj.CoreCompileInputs.cache
+C:\src\ByteBank.SistemaInterno\ByteBank.SistemaInterno\obj\Debug\ByteBank.SistemaInterno.csproj.CopyComplete
+C:\src\ByteBank.SistemaInterno\ByteBank.SistemaInterno\obj\Debug\ByteBank.SistemaInterno.exe
+C:\src\ByteBank.SistemaInterno\ByteBank.SistemaInterno\obj\Debug\ByteBank.SistemaInterno.pdb
